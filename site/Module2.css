@@ -8,14 +8,11 @@
 	 
 	  }
 	  section {
-		position: relative;
-		padding: 0px;
 		border :1px solid black;
-		width: 280px;
-		float: left;
-		margin: 10px;
-		position: relative;
 		background-color :#C0C0C0;
+		float: left;
+		margin: 5px;
+		width: 90%;
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 10px;
 	}
@@ -26,42 +23,7 @@
 	 	
 	   }
 
-
-	#title1{
-		background-color: #FFB6C1;
-		position: top right;
-		border: 1px solid black;
-		width: 100px;
-		float: right;
-		margin: auto;
-		font-size: 15px;
-		font-weight: bold;
-		text-align: center;
-	}
-	#title2{
-		background-color: #DC143C;
-		position: top right;
-		border: 1px solid black;
-		width: 100px;
-		float: right;
-		margin: auto;
-		font-size: 15px;
-		font-weight: bold;
-		text-align: center;
-	}
-	#title3{
-		background-color: #F0E68C;
-		position: top right;
-		border: 1px solid black;
-		width: 100px;
-		float: right;
-		margin: auto;
-		font-size: 15px;
-		font-weight: bold;
-		text-align: center;
-	}	
-
-	.row {
+	   .row {
 		width: 100%;
 	}
 
@@ -194,6 +156,41 @@
 		}
 	}	
 
+	#title1{
+		background-color: #FFB6C1;
+		position: top right;
+		border: 1px solid black;
+		width: 100px;
+		float: right;
+		margin: auto;
+		font-size: 15px;
+		font-weight: bold;
+		text-align: center;
+	}
+	#title2{
+		background-color: #DC143C;
+		position: top right;
+		border: 1px solid black;
+		width: 100px;
+		float: right;
+		margin: auto;
+		font-size: 15px;
+		font-weight: bold;
+		text-align: center;
+	}
+	#title3{
+		background-color: #F0E68C;
+		position: top right;
+		border: 1px solid black;
+		width: 100px;
+		float: right;
+		margin: auto;
+		font-size: 15px;
+		font-weight: bold;
+		text-align: center;
+	}	
+
+	
 </style>
 </head>
 <body>
